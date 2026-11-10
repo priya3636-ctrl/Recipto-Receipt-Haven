@@ -75,8 +75,5 @@ B.Tech – Computer Science and Engineering (Data Science)
 ## 🔗 Project Links
 
 - Live Website: https://recipto-receipt-haven.lovable.app
-- GitHub Repository: Add your repository URL here.
 
----
 
-⭐ If you find this project interesting, feel free to explore it!
